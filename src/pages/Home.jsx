@@ -105,9 +105,7 @@ const Home = () => {
                 </h1>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                  magni delectus tenetur autem, sint veritatis!
-                </p>
+                It's all at your fingertips – the restaurant you love. Find the right food to suit your mood, and make the first bite last.</p>
 
                 <div className="hero__btns d-flex align-items-center gap-5 mt-4">
                   <button className="order__btn d-flex align-items-center justify-content-between">
