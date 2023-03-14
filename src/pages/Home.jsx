@@ -157,14 +157,6 @@ const Home = () => {
               <h2 className="feature__title">
                 we will <span>take care</span>
               </h2>
-              <p className="mb-1 mt-4 feature__text">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-                officiis?
-              </p>
-              <p className="feature__text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aperiam, eius.{" "}
-              </p>
             </Col>
 
             {featureData.map((item, index) => (
@@ -255,10 +247,7 @@ const Home = () => {
                   Why <span>Tasty Treat?</span>
                 </h2>
                 <p className="tasty__treat-desc">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Dolorum, minus. Tempora reprehenderit a corporis velit,
-                  laboriosam vitae ullam, repellat illo sequi odio esse iste
-                  fugiat dolor, optio incidunt eligendi deleniti!
+                  We're here to serve the best for our beloved customer to enjoy their foods.
                 </p>
 
                 <ListGroup className="mt-4">
@@ -267,14 +256,14 @@ const Home = () => {
                       <i class="ri-checkbox-circle-line"></i> Fresh and tasty
                       foods
                     </p>
-                ?
+                
                   </ListGroupItem>
 
                   <ListGroupItem className="border-0 ps-0">
                     <p className="choose__us-title d-flex align-items-center gap-2 ">
                       <i class="ri-checkbox-circle-line"></i> Quality support
                     </p>
-                    ?
+                    
                   </ListGroupItem>
 
                   <ListGroupItem className="border-0 ps-0">
@@ -282,7 +271,7 @@ const Home = () => {
                       <i class="ri-checkbox-circle-line"></i>Order from any
                       location{" "}
                     </p>
-                  ?
+                  
                   </ListGroupItem>
                 </ListGroup>
               </div>
