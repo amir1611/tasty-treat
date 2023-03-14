@@ -33,19 +33,18 @@ import TestimonialSlider from "../components/UI/slider/TestimonialSlider.jsx";
 const featureData = [
   {
     title: "Quick Delivery",
-    imgUrl: featureImg01,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    imgUrl: featureImg01
   },
 
   {
     title: "Super Dine In",
-    imgUrl: featureImg02,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    imgUrl: featureImg02
+   
   },
   {
     title: "Easy Pick Up",
-    imgUrl: featureImg03,
-    desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, doloremque.",
+    imgUrl: featureImg03
+    
   },
 ];
 
