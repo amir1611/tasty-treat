@@ -26,12 +26,12 @@ const Footer = () => {
             <h5 className="footer__title">Delivery Time</h5>
             <ListGroup className="deliver__time-list">
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Sunday - Thursday</span>
+                <span>Monday - Friday</span>
                 <p>10:00am - 11:00pm</p>
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Friday - Saturday</span>
+                <span>Saturday - Sunday </span>
                 <p>Off day</p>
               </ListGroupItem>
             </ListGroup>
